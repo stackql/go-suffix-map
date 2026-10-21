@@ -1,6 +1,6 @@
 module github.com/stackql/go-suffix-map
 
-go 1.18
+go 1.27.3
 
 require gotest.tools v2.2.0+incompatible
 
